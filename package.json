@@ -1,0 +1,20 @@
+{
+  "name": "h8jobs-mouse_to_nearest_node",
+  "version": "0.0.0",
+  "description": "@Klaustin - Task dari PT. Cipta Integrasi Nusantara",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.2",
+    "vite": "^3.0.9",
+    "vite-plugin-solid": "^2.3.0"
+  },
+  "dependencies": {
+    "solid-js": "^1.5.1"
+  }
+}
